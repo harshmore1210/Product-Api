@@ -71,6 +71,7 @@ PUT	/products/:id	Update product by ID
 DELETE	/products/:id	Delete product by ID
 
 🧪 Example Request (POST /products)
+
 {
   "name": "iPhone 15",
   "price": 79999,
@@ -89,3 +90,4 @@ product-api/
 🧑‍💻 Author
 
 Harsh More
+
